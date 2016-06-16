@@ -1,7 +1,7 @@
-# SyllabusReqs
+#SyllabusReqs#
 
-Identifying information: 
-*Teacher’s Name and 
+##Identifying information:## 
+*Teacher’s Name
 *Contact information
 *Course title
 *Current term
