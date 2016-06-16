@@ -1,6 +1,11 @@
 # SyllabusReqs
 
-Identifying information, including the teacher’s name and contact information, course title, current term, and school year
+Identifying information: 
+*Teacher’s Name and 
+*Contact information
+*Course title
+*Current term
+*School year
 
 Learning standards (i.e. the learning standards students are expected to master), course objectives, and/or competencies addressed in the course
 
