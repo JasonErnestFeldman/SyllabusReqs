@@ -56,15 +56,10 @@ How instruction will be delivered, teacher or department/school philosophy, them
 Date | Goal/Assessment
 ------------ | -------------
 Write your date here | Write your goal/skill here
-
 Write your date here | Write your goal/skill here
-
 Write your date here | Write your goal/skill here
-
 Write your date here | Write your goal/skill here
-
 Write your date here | Write your goal/skill here
-
 Write your date here | Write your goal/skill here
 
 
@@ -108,11 +103,11 @@ Including any other non-academic expectations, such as attendance, lateness, and
 ##Classroom Expectations
 
 
-###*Classroom Procedures* 
+###Classroom Procedures 
 Here you can describe expectations for bathroom breaks, passing out papers, assigned seating etc.
 
-###*Class/School Rules and Behavior Accountability*
+###Class/School Rules and Behavior Accountability
 Can reflect both the school's expectations, your expectations, and ways for students to know that it's all going well.  
 
-###*Academic Policies* 
+###Academic Policies 
 Here you can describe academic integrity and ramifications of cheating and plagiarism.  
